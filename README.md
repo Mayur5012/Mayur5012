@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayuresh Gawali</h1>
 <h3 align="center">A passionate Full Stack developer And Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science  and Web Development**
 
-- 👨‍💻 All of my projects are available at [my portfolio website.](mayureshgawali.netlify.app)
+- 👨‍💻 All of my projects are available at [my website.](https://mayureshgawali.netlify.app/)
 
 - 💬 Ask me about **#webdevelopment #datascience #reactjs #python #dsa**
 
 - 📫 How to reach me **mayureshgawali9@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://shorturl.at/LMO48)
+- 📄 Know about my experiences [RESUME](https://shorturl.at/LMO48).
 
 - ⚡ Fun fact **I identify as an attack helicopter.**
 
