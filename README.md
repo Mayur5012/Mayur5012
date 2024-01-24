@@ -4,14 +4,15 @@
 - 🌱 I’m currently learning **Data Science  and Web Development**
 
 - 👨‍💻 All of my projects are available at [my website.](https://mayureshgawali.netlify.app/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/mayureshgawali/)
 
 - 💬 Ask me about **#webdevelopment #datascience #reactjs #python #dsa**
 
-- 📫 How to reach me **mayureshgawali9@gmail.com**
+- 📫 Contact me **mayureshgawali9@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://shorturl.at/LMO48).
 
-- ⚡ Fun fact **I identify as an attack helicopter.**
+- ⚡ Fun fact **I identify as an mk4 attack helicopter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
