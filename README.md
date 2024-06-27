@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayuresh Gawali</h1>
 <h3 align="center">A passionate Full Stack developer And Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Data Science  and Web Development**
+- 🌱 I’m currently learning **Web Development and Data Science**
 
 - 👨‍💻 All of my projects are available at [my website.](https://mayureshgawali.netlify.app/)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/mayureshgawali/)
