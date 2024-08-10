@@ -10,7 +10,7 @@
 
 - 📫 Contact me **mayureshgawali9@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://mayureshgawali.netlify.app/static/media/Mayuresh%20Gawali.ad428399361847ec4828.pdf).
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1YBEHWfV4IjupTNlh7iWQdc0W891XYsyr/view?usp=drive_link).
 
 - ⚡ Fun fact **I identify as an mk4 attack helicopter.**
 
